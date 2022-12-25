@@ -1,0 +1,15 @@
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\bin\Debug\net6.0\50z.exe
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\bin\Debug\net6.0\50z.deps.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\bin\Debug\net6.0\50z.runtimeconfig.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\bin\Debug\net6.0\50z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\bin\Debug\net6.0\50z.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\obj\Debug\net6.0\50z.csproj.AssemblyReference.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\obj\Debug\net6.0\50z.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\obj\Debug\net6.0\50z.AssemblyInfoInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\obj\Debug\net6.0\50z.AssemblyInfo.cs
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\obj\Debug\net6.0\50z.csproj.CoreCompileInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\obj\Debug\net6.0\50z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\obj\Debug\net6.0\refint\50z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\obj\Debug\net6.0\50z.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\obj\Debug\net6.0\50z.genruntimeconfig.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\7semDZ\50z\obj\Debug\net6.0\ref\50z.dll
